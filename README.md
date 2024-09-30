@@ -1,5 +1,5 @@
 # DiaPredict - Modèle Prédictif pour le Diabète
-![Vitrine du Interface](./Imagedesgraphes/"DiaPredict.jpg")
+![Vitrine du Interface](./Tkinter/"DiaPredict.jpg")
 
 ## Description du projet
 
