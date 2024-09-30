@@ -1,5 +1,5 @@
 # DiaPredict - Modèle Prédictif pour le Diabète
-![Vitrine du Dashboard](./Image des graphes/DiaPredict.jpg)
+![Vitrine du Interface](./Imagedesgraphes/"DiaPredict.jpg")
 
 ## Description du projet
 
